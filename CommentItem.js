@@ -27,6 +27,8 @@ const styles = StyleSheet.create({
     padding: 8,
     borderRadius: 10,
     flexShrink: 1,
+    
+    
   },
   user: { fontWeight: "bold", marginBottom: 3 },
   commentText: { fontSize: 14, color: "#333" },
