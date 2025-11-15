@@ -155,11 +155,11 @@ const styles = StyleSheet.create({
     ...Theme.Shadows,
   },
   logo: {
-    width: 130,
-    height: 130,
+    width: 150,
+    height: 150,
     alignSelf: "center",
     marginBottom: 12,
-    borderRadius: 70,
+    borderRadius: 75,
   },
 });
 
